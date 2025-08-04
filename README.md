@@ -174,6 +174,6 @@ This project is intended solely for educational purposes and as an innovative gu
 
 ---
 
-GitHub: https://github.com/QuantDevJayson
-PyPI: https://pypi.org/user/jayson.ashioya
-LinkedIn: https://www.linkedin.com/in/jayson-ashioya-c-082814176/
+#### GitHub: https://github.com/QuantDevJayson
+#### PyPI: https://pypi.org/user/jayson.ashioya
+#### LinkedIn: https://www.linkedin.com/in/jayson-ashioya-c-082814176/
